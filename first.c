@@ -3,6 +3,9 @@
 #include<stdlib.h>
 
 int main(){
-	printf("first test\n");
+	printf("change firstly\n");
+
+
+
 	return 0;
 }
